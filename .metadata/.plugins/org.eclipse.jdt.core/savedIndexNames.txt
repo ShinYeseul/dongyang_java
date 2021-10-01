@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+/Users/yeseulsin/Desktop/JavaProject/.metadata/.plugins/org.eclipse.jdt.core
-4077339175.index
-2155015707.index
